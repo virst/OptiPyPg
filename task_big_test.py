@@ -1,7 +1,7 @@
 from eq import *
 
 
-def get_task():
+def get_task(a):
     t = Task()
     t.xs[1] = 29845.00
     t.xs[2] = 2162.00

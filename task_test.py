@@ -1,7 +1,7 @@
 from eq import *
 
 
-def get_task():
+def get_task(a):
     t = Task()
     t.xs[0] = 1
     t.xs[1] = 2.3
