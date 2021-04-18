@@ -1,0 +1,7 @@
+https://habr.com/ru/post/330648/
+https://towardsdatascience.com/linear-programming-and-discrete-optimization-with-python-using-pulp-449f3c5f6e99
+https://dev-gang.ru/article/rabota-s-postgresql-v-python-xn8721sq0g/
+https://pythonru.com/biblioteki/vvedenie-v-postgresql-s-python-psycopg2
+https://www.opennet.ru/base/dev/python_dba.txt.html
+
+https://www.oracle.com/ru/database/technologies/instant-client/downloads.html
